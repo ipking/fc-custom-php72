@@ -2,10 +2,10 @@
 
 $tmpDbConfig = array(
 	'driver'   => 'pdo',
-	'host' => 'rm-bp1bkhjm2unm61hq9.mysql.rds.aliyuncs.com',
-	'login' => 'tk',
-	'password' => 'Tk123456',
-	'database' => 'erp',
+	'host' => 'rdsqquavqrrqbai334.mysql.rds.aliyuncs.com',
+	'login' => 'tterp',
+	'password' => 'kingdee',
+	'database' => 'tt_datacenter_dev',
 	'charset'  => 'utf8',
 	'prefix'   => '',
 	'port'   => '3306',
